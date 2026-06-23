@@ -1,3 +1,4 @@
+![PAIXBLOX](driftcon.png)
 # PAIXBLOX
 
 PAIXBLOX explores AI conversation continuity failures, context drift, recovery paths, and structured investigation records.
